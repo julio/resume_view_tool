@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ResumeViewTool::Renderer.copyright('My Business', 'All rights reserved')
+```
 
 ## Development
 
